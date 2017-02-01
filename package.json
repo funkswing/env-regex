@@ -1,0 +1,22 @@
+{
+  "name": "env-regex",
+  "version": "0.0.1",
+  "description": "RegEx filter environment variables",
+  "keywords": [
+    "regex",
+    "environment",
+    "env"
+  ],
+  "author": "Jon Flaishans <jonathan.flaishans@gmail.com> (http://flaishans.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/funkswing/env-regex"
+  },
+  "issues": {
+    "url": "https://github.com/funkswing/env-regex/issues"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.5.9"
+  }
+}
